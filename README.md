@@ -1,17 +1,5 @@
-<style>
-  img {
-    max-width: 100px;
-    height: auto;
-  }
-
-  @media (max-width: 768px) {
-    img {
-      max-width: 90px;
-    }
-  }
-</style>
 <div align="center">
-  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" />
+  <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" width="100" />
 </div>
 
 # Stephen Murichu
