@@ -33,7 +33,6 @@
 </p>
 
 ### GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munuhee)
-
-### Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=munuhee&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=munuhee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=munuhee&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=munuhee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
