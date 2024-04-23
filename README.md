@@ -33,6 +33,7 @@
     <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+    <img width="40" height="40" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
     <img width="40" height="40" src="https://img.icons8.com/color/48/prometheus-app.png" alt="prometheus-app"/>
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
 </p>
