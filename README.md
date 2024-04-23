@@ -9,8 +9,7 @@
 </p>
 </div>
 
-[<img height="30" src="https://res.cloudinary.com/murste/image/upload/v1699437291/icons/linkedin_z7lavp.png">](https://www.linkedin.com/in/stephen-murichu-034990210/)
-[<img height="30" src="https://res.cloudinary.com/murste/image/upload/v1699438733/icons/twitter_brw3ui.png">](https://twitter.com/Stephen_Murichu)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-murichu-034990210/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/steve_munuhe) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://twitter.com/Stephen_Murichu)
 
 <p>
   I am a software engineer with a solid background in DevOps practices, proficient in multiple programming languages, automation, microservices, and cloud technologies. I am driven by a passion for exploring the full potential of technology and have a strong commitment to staying at the forefront of the industry, fostering innovation.
