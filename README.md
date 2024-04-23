@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" width="100" />
 </div>
 
-<h2>👋 Hi, I am Stephen</h2>
+## 👋 Hi, I am Stephen
 
 [<img height="30" src="https://res.cloudinary.com/murste/image/upload/v1699437291/icons/linkedin_z7lavp.png">](https://www.linkedin.com/in/stephen-murichu-034990210/)
 [<img height="30" src="https://res.cloudinary.com/murste/image/upload/v1699438733/icons/twitter_brw3ui.png">](https://twitter.com/Stephen_Murichu)
@@ -11,7 +11,7 @@
   I am a software engineer with a solid background in DevOps practices, proficient in multiple programming languages, automation, microservices, and cloud technologies. I am driven by a passion for exploring the full potential of technology and have a strong commitment to staying at the forefront of the industry, fostering innovation.
 </p>
 
-<h3 align="left">Tools I use:</h3>
+### Tools I use:
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
@@ -34,4 +34,4 @@
 </p>
 
 ### GitHub Stats:
-<!-- Add GitHub Stats Card or GitHub Readme Stats here -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munuhee)
