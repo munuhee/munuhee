@@ -11,7 +11,7 @@
   I am a software engineer with a solid background in DevOps practices, proficient in multiple programming languages, automation, microservices, and cloud technologies. I am driven by a passion for exploring the full potential of technology and have a strong commitment to staying at the forefront of the industry, fostering innovation.
 </p>
 
-### Tools I use:
+### Tools & Technologies I use:
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
