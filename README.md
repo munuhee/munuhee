@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://res.cloudinary.com/murste/image/upload/v1713870525/icons/Hi_snstgs.gif" alt="Hi" width="50" />
+  <img src="https://res.cloudinary.com/murste/image/upload/v1713870525/icons/Hi_snstgs.gif" alt="Hi" width="40" />
   Hi, I'm Stephen
 </h2>
 
