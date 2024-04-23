@@ -2,7 +2,10 @@
   <img src="https://res.cloudinary.com/murste/image/upload/v1698907632/stevolve_x8ioeu.png" alt="Stephen Murichu's Logo" width="100" />
 </div>
 
-## 👋 Hi, I am Stephen
+<h2 align="center">
+  <img src="https://res.cloudinary.com/murste/image/upload/v1713870525/icons/Hi_snstgs.gif" alt="Hi" width="50" />
+  Hi, I'm Stephen
+</h2>
 
 [<img height="30" src="https://res.cloudinary.com/murste/image/upload/v1699437291/icons/linkedin_z7lavp.png">](https://www.linkedin.com/in/stephen-murichu-034990210/)
 [<img height="30" src="https://res.cloudinary.com/murste/image/upload/v1699438733/icons/twitter_brw3ui.png">](https://twitter.com/Stephen_Murichu)
