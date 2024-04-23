@@ -5,7 +5,7 @@
   </h2>
   <p align="center">
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Stephen%20Murichu%20;Software%20Engineer%20;Devops%20Engineer%20;Web%20Developer%20;Full-Stack%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Stephen%20Murichu%20;Software%20Engineer%20;DevOps%20Engineer%20;Web%20Developer%20;Full-Stack%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 </div>
 
