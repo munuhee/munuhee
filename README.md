@@ -32,3 +32,6 @@
     <img width="40" height="40" src="https://img.icons8.com/color/48/prometheus-app.png" alt="prometheus-app"/>
     <img width="40" height="40" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
 </p>
+
+### GitHub Stats:
+<!-- Add GitHub Stats Card or GitHub Readme Stats here -->
