@@ -12,7 +12,7 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-murichu/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/steve_munuhe) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=Twitter&logoColor=white)](https://x.com/stephen_munuhe)
 
 <p>
-Software Engineer specializing in DevOps, automation, cloud technologies, and modern architectures. Proficient in Python, JavaScript, and other languages with a strong focus on quality code and continuous learning. Adept at collaborating in Agile environments and solving complex problems.
+Software Engineer specializing in DevOps, automation, cloud technologies, and modern architectures. Proficient in Python, JavaScript, PHP and other languages with a strong focus on quality code and continuous learning. Adept at collaborating in Agile environments and solving complex problems.
 </p>
 
 ### Tools & Technologies I use:
