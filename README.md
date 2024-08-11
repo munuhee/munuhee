@@ -27,8 +27,8 @@ Software Engineer specializing in DevOps, automation, cloud technologies, and mo
     <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
     <img src="https://img.icons8.com/nolan/64/flask.png" alt="Flask" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000" alt="mongoDb" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=ti98Xg8mxLWd&format=png&color=000000" alt="SQL" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
     <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" width="40" height="40"/>
