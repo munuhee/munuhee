@@ -19,23 +19,26 @@ Software Engineer specializing in DevOps, automation, cloud technologies, and mo
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" alt="PHP" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000" alt="Express" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
     <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
-    <img src="https://img.icons8.com/nolan/64/flask.png"  width="40" height="40" alt="flask"/>
+    <img src="https://img.icons8.com/nolan/64/flask.png" alt="Flask" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/postgreesql.png" alt="postgresql" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-    <img width="40" height="40" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
-    <img width="40" height="40" src="https://res.cloudinary.com/murste/image/upload/v1713867096/icons/GitHub_Actions_qtiqeh.png" alt="github"/>
+    <img src="https://img.icons8.com/nolan/64/github.png" alt="GitHub" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/murste/image/upload/v1713867096/icons/GitHub_Actions_qtiqeh.png" alt="GitHub Actions" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
-    <img width="40" height="40" src="https://img.icons8.com/color/48/prometheus-app.png" alt="prometheus-app"/>
-    <img width="40" height="40" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
+    <img src="https://img.icons8.com/color/48/bash.png" alt="Bash" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/prometheus-app.png" alt="Prometheus" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/grafana.png" alt="Grafana" width="40" height="40"/>
 </p>
 
 ### GitHub Stats:
